@@ -1,0 +1,26 @@
+{
+  "name": "node_api_structure_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "requiredir": "^1.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreasMaier/node_api_structure_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreasMaier/node_api_structure_test/issues"
+  },
+  "homepage": "https://github.com/AndreasMaier/node_api_structure_test#readme"
+}
